@@ -2032,6 +2032,11 @@ body.light.blog .page-link:hover{
   font-weight: bold;
 
 }
+#btnsend:hover,#btnsend:focus{
+  text-decoration: none;
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
 #btnmoreabout{
   border: 2px solid #ffb400;
   padding: 8px 15px;
@@ -2041,5 +2046,18 @@ body.light.blog .page-link:hover{
   font-weight: bold;
   text-decoration: none;
 
+}
+.imagetext{
+  font-family: Peda;
+  font-weight: bold;
+  color: #000000;
+}
+.footer{
+  padding-top: 10px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-family: Lobster;
+  font-size: 15px;
+ background-color: #FFFFFF;
 }
  
