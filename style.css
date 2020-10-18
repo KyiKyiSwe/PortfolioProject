@@ -1843,10 +1843,12 @@ body.light.blog .page-link:hover{
   font-family: LexendDeca;
   font-weight: bold;
   text-align: center;
+  color: #FFFFFF;
 }
 .personalinfo{
   font-family: Crimon;
   font-weight: bold;
+  color: #FFFFFF;
 }
 .datainfo{
   font-family: Crimon;
@@ -2018,5 +2020,26 @@ body.light.blog .page-link:hover{
 }
 .bgtextcolor{
   color: #FFFFFF;
+}
+
+/*btnsend for contact page*/
+#btnsend{
+  border: 2px solid #ffb400;
+  padding: 8px 15px;
+  border-radius: 100px;
+  color: #FFFFFF;
+  background-color: #ffb400;
+  font-weight: bold;
+
+}
+#btnmoreabout{
+  border: 2px solid #ffb400;
+  padding: 8px 15px;
+  border-radius: 100px;
+  color: #FFFFFF;
+  background-color: #ffb400;
+  font-weight: bold;
+  text-decoration: none;
+
 }
  
