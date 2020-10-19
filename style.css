@@ -1411,6 +1411,7 @@ hr.separator {
   }
 }
 
+
 /*navigation item color*/
 
 .home h1,
@@ -1454,7 +1455,8 @@ body.light.contact .contactform textarea:focus,
 .blog .page-item.active .page-link,
 .blog .page-link:hover,
 body.light.blog .page-item.active .page-link,
-body.light.blog .page-link:hover{
+body.light.blog .page-link:hover,
+.icon-tex a:visited{
   border: 1px solid #ffb400;
 }
 .blog .post-thumb {
@@ -1728,4 +1730,18 @@ body.light.blog .page-link:hover{
   font-size: 15px;
  background-color: #FFFFFF;
 }
- 
+
+.duration{
+  font-family: Crimon;
+  font-size: 25px;
+  color: #FFFFFF;
+  line-height: 20px;
+}
+.data{
+  font-family: LexendDeca;
+  font-size: 17px;
+  color: grey;
+  text-align: justify;
+  line-height: 23px;
+}
+
